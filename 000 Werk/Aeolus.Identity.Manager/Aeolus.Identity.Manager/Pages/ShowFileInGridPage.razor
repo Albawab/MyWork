@@ -1,0 +1,7 @@
+﻿@page "/formulier"
+@using HenE.Aeolus.Blazor.Common.ShowFileInGrid.Components
+@using HenE.Aeolus.Blazor.Common.Menubar.Interfaces
+@using HenE.Aeolus.Blazor.Common.ShowFileInGrid.Interfaces
+@inject IMenubarSevice menubar
+
+<BaseShowFileinGridComponent MenubarItems="@menubar.GetMenubarItems()"></BaseShowFileinGridComponent> 

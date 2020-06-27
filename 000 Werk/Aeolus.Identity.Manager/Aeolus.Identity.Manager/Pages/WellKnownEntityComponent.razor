@@ -1,0 +1,18 @@
+@page "/wellKnownEntity" 
+
+@using HenE.Aeolus.Overzichten.Domain.GemeenteIJsseldijk;
+@using HenE.Aeolus.Blazor.Common.Menubar.Interfaces
+@inject IConfiguration configuration
+
+<div>
+    <BaseODataGridComponent TItem="WellKnownEntity" Url="@Url"></BaseODataGridComponent>
+</div>
+@code{
+        string Url;
+
+    protected override void OnInitialized()
+    {
+        Url = configuration["Api:Adresses:Overzichten"] + "wellKnownEntity";
+    }
+}
+

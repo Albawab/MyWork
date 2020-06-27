@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPRlYDzoKu7o09UEi6DOGPq4jbWcgudiQaipRCS8uKuddVl+IJ8JVof7Hkv2QLG7XgEco1liYPA/aucWqg6U7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdul\\Desktop\\Werk\\00 Blazor\\03 Http post put delete form editForm\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul\\.nuget\\packages\\embeddedblazorcontent\\1.9.0\\embeddedblazorcontent.1.9.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\matblazor\\1.9.0\\matblazor.1.9.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.blazor\\3.0.0-preview9.19465.2\\microsoft.aspnetcore.blazor.3.0.0-preview9.19465.2.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.0.0-preview9.19465.2\\microsoft.aspnetcore.blazor.httpclient.3.0.0-preview9.19465.2.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.components\\3.0.0\\microsoft.aspnetcore.components.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.0.0\\microsoft.aspnetcore.components.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.0.0\\microsoft.aspnetcore.components.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.0.0\\microsoft.aspnetcore.components.web.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.0.0\\microsoft.aspnetcore.metadata.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\microsoft.jsinterop\\3.0.0\\microsoft.jsinterop.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\mono.webassembly.interop\\3.0.0\\mono.webassembly.interop.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

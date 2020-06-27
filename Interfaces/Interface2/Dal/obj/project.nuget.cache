@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZuLNxf4cDTQowHRzHfvc90stg3o+Q9ChMKjOqe6we9p3CmPZ59ifLneA9/E+NmiXwxvemBbz8WsErC4g1Q6Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albaw\\Desktop\\ICT\\SharpW\\Interfaces\\Interface2\\Dal\\Dal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albaw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\albaw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
